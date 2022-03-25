@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ali-Hay
-- 👀 I’m interested in Software Engineering and AI
-- 🌱 I’m currently learning Python and C
-- 💞️ I’m looking to collaborate on anything to get experience!
+- 👀 I’m interested in Game Development and AI
+- 🌱 I’m currently learning C and Python
+- 💞️ I’m looking to collaborate on beginner projects with Unreal Engine!
 - 📫 How to reach me: ali.hay1337@gmail.com
 
 <!---
